@@ -16,7 +16,7 @@ How the Web Works ?
 1. You type a domain name or web address into your browser to visit a site.
 
 2. your computer will connect to Domain Name System (DNS) servers. 
- * DNS like adictionary take the name give IP. 
+ * DNS like dictionary take the name give IP. 
  
 3. Youre computer now connect to web server which is a computer that is constantly connected to the web, and is set up especially to send web pages to users.
 
