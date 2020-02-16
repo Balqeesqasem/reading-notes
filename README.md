@@ -8,8 +8,8 @@ To be able to read it !* :blue_heart:
 
 READ # | LINK 
 ------ | ----
-Read01 | [Read01](https://balqeesqasem.github.io/reading-notes/read01)
-Read02 | [Read02]()
+Read01 | [Read01](https://balqeesqasem.github.io/reading-notes/class-01)
+Read02 | [Read02](https://balqeesqasem.github.io/reading-notes/class-02)
 Read03 | [Read03]()
 Read04 | [Read04]()
 Read05 | [Read05]()
