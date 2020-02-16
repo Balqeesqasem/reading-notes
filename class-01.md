@@ -33,11 +33,11 @@ Elements are usually made up of two tags: an opening tag and a closing tag.
 
 - example:
 
-  * <p></p>
-  * <head></head>
-  * <h1></h1>
-  * <body></body>
-  * <style></style>
+  * p
+  * head
+  * h1
+  * body
+  * style>
 
 
   # Attributes
@@ -60,19 +60,19 @@ example:
 Elements will always appear to start on a new line in the browser window.
 
 example:
-* <h1>
-* <p>
-* <ul>
-* <li>
+* h1
+* p
+* ul
+* li
 
 ### inline elements
 
 Elements will always appear on the same line.
 
-* <a>
-* <b>
-* <em>
-*  <img>
+* a
+* b
+* em
+* img
 
 ## Some tag example :
 
