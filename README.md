@@ -38,7 +38,5 @@ Read15 | [Read15]()
 
 * Balqees Mohammad 
 
-
-
-  Computer Engineer 
+ Computer Engineer 
 
