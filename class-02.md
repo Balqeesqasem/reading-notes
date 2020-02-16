@@ -65,4 +65,67 @@ example :
 
  # Javascript
 
- 
+A script is a series of instructions that a computer can follow one-by-one.
+Each individual instruction or step is known as a statement.
+Statements should end with a semicolon.
+
+JavaScript is case sensitive .
+
+- How to declare variable in javascript?
+
+*var any name you want = value ;*
+
+Data type :
+
+* numbers
+* strings
+* Booleans
+
+### Arrays
+
+Arrays are special types of variables that store more than one piece of related information.
+
+
+
+type of variable stores a list of values.
+
+ex:
+
+var colors new Array('white ' ,
+'black',
+'custom ' );
+
+We can numbering and accessing data in array.
+
+
+
+
+# what we have in javascript 
+
+* Expression :
+
+var area = 3 * 2
+
+* Operators 
+
+buy= (5 > 3) && (2 < 4)
+
+
+
+# Function :
+
+Groupe of statment to do specific task.
+
+# Creat a function :
+
+* function name function () {
+
+
+}
+
+And we can add if statement and if else statement to java script .
+
+
+
+
+
