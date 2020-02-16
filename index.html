@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pepole intrest</title>
+
+   <style>
+      
+h1 {
+    text-align: center;
+    color: brown;
+    background-color: cornsilk;
+}
+
+nav ul li a {
+
+    text-decoration: none;
+    color: dimgray;
+    background-color: cornsilk;
+    
+
+}
+
+nav ul li{
+         display: inline-block;
+         padding: 0 130px;
+         margin: 10px;
+        
+        }
+
+footer{
+    text-align: center;
+    background-color: cornsilk;
+    color: brown;
+}
+
+p{
+    color: brown;
+    padding: 15px;
+margin: 15px;
+border: brown;
+}
+
+#fem{
+    width: 200px;
+    height: 250px;
+    margin: 70px;
+    }
+
+#male{
+    margin: 70px;
+}
+
+#nam{
+    width: 150px;
+    height: 100px;
+    margin: 50px;
+}
+
+#num{
+    width: 150px;
+    height: 100px;
+    margin: 50px;
+}
+
+#mov{
+    width: 200px;
+    height: 150px;
+    margin: 50px;
+}
+
+#red{
+    width: 200px;
+    height: 150px;
+    margin: 50px;
+}
+   </style>
+
+    
+</head>
+
+
+<body>
+   
+    <header>
+<h1>Now Your self better</h1>
+
+<nav>
+    <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">Help</a></li>
+        <li><a href="">More Info</a></li>
+    </ul>
+</nav>
+    </header>
+
+    <main>
+ <p>- whats your gender male/female ?</p>
+ <img id="male" src="ba.jpeg" alt="">
+ <img id="fem" src="d.jpg" alt="">
+
+<p>- whats is your name ?</p>
+<img id="nam" src="cc.png" alt="">
+ 
+<p>- whats is your age ?</p>
+<img id="num" src="ccc.jpeg" alt="">
+
+<p>- What do like much more Reding/watcing Movies ?</p>
+<img id="mov" src="ee.jpg" alt="">
+<img id="red" src="w.jpeg" alt="">
+
+    <footer>
+<p>copy right for Balqees Qasem</p>
+    </footer>
+    <script>
+        alert(" Hello There! Let us now more about you  ")
+        // var item = "";
+
+        var gender= prompt("whats your gender male/female");
+        // if (gender === "male")
+        // {
+        //     item = '<img src="ba.jpeg" alt="">';
+        // }
+        // else if (gender === "female")
+        // {
+        //     item = '<img src=ba.jbeg" alt="">'
+        // }
+        var name= prompt(" whats is your name? ")
+        alert( name + " Thats a nice name ! ")
+        var age= prompt("Whats your age ?")
+        var intrest= prompt("What do like much more Reding/watcing Movies")
+        
+console.log("User name:  " + name)
+console.log("User gender:  " + gender)
+console.log("User age:  " + age)
+console.log("User intrest:  " + intrest)
+document.write("Your name is  " + name )
+
+document.write(" " + gender )
+
+document.write(" " + age)
+document.write(" years old, " + intrest)
+document.write(" lover.")
+    </script>
+
+</body>
+
+</html>
