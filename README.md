@@ -10,7 +10,7 @@ READ # | LINK
 ------ | ----
 Read01 | [Read01](https://balqeesqasem.github.io/reading-notes/class-01)
 Read02 | [Read02](https://balqeesqasem.github.io/reading-notes/class-02)
-Read03 | [Read03]()
+Read03 | [Read03](https://balqeesqasem.github.io/About-me/class-03)
 Read04 | [Read04]()
 Read05 | [Read05]()
 Read06 | [Read06]()
